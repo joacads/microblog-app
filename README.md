@@ -1,24 +1,15 @@
-# README
+# Demo - Micro blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails app created using Devise; Simple_Form
 
-Things you may want to cover:
+## Main Features
 
-* Ruby version
+Create Post
 
-* System dependencies
+Comments Posts
 
-* Configuration
+Users and Restrictions
 
-* Database creation
+# 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+End with an example of getting some data out of the system or using it for a little demo
